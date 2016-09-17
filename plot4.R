@@ -1,6 +1,4 @@
 
-getwd()
-setwd("Documents/Coursera/DataScience/code/exploratory/ExData_Plotting1")
 ########### LIBRARIES ################################
 
 library(sqldf)
